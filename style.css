@@ -1,0 +1,19 @@
+body{
+    margin: 0%;
+}
+#first{
+background-color: #1f2937;
+color: white;
+}
+section img{
+    block-size: 200px;
+}
+.Logo{
+    font-size: 24px;
+}
+nav h4{
+    margin: 20px;
+    justify-content: end;
+    display: flex
+
+}
