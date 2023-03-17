@@ -10,8 +10,19 @@ section img{
 }
 .Logo{
     font-size: 24px;
+    
 }
 nav h4{
+
+}
+img:hover{
+    block-size: 30px;
+    border-color: aqua solid;
+    border-radius: 50px;
+    transition: 10s;
+}
+p:hover{
     display: flex;
-    justify-content: end;
+    justify-content: flex-end;
+    transition: 3s;
 }
